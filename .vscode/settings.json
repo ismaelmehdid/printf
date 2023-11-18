@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+		"stdlib.h": "c",
+		"*.tcc": "c",
+		"ft_printf.h": "c"
+	}
+}
