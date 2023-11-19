@@ -6,7 +6,7 @@
 /*   By: ismaelmehdid <ismaelmehdid@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/16 16:44:19 by ismaelmehdi       #+#    #+#             */
-/*   Updated: 2023/11/19 00:09:32 by ismaelmehdi      ###   ########.fr       */
+/*   Updated: 2023/11/19 19:58:33 by ismaelmehdi      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include <stdio.h>
 # include <stdarg.h>
 
 int		ft_printf(const char *format, ...);
