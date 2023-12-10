@@ -6,7 +6,7 @@
 /*   By: ismaelmehdid <ismaelmehdid@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/16 16:42:33 by ismaelmehdi       #+#    #+#             */
-/*   Updated: 2023/11/19 19:49:26 by ismaelmehdi      ###   ########.fr       */
+/*   Updated: 2023/12/10 15:15:35 by ismaelmehdi      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,7 +50,7 @@ int	ft_printf(const char *format, ...)
 	i = 0;
 	count = 0;
 	if (!format)
-		return (0);
+		return (-1);
 	va_start(ap, format);
 	while (format[i])
 	{
