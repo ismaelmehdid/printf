@@ -20,7 +20,7 @@
 
 ### Requirements
 
-The project is written in the C language and requires the **`gcc` compiler** to run and the standard **C libraries** to run.
+The project is written in the C language and requires the **`gcc` compiler** and the standard **C libraries** to run.
 
 ### Instructions
 
